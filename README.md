@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# For instructions how to use go here (https://www.kristijanklepac.info/react-simple-weather-app-demo/)
+## For instructions how to use go here (https://www.kristijanklepac.info/react-simple-weather-app-demo/)
 
 ## Available Scripts
 
